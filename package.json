@@ -1,0 +1,12 @@
+{
+  "name": "react-native-chooser-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/isman-usoh/react-native-chooser-web.git",
+  "author": "Isman Usoh <isman.u@appman.co.th>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prop-types": "*",
+    "react": "*"
+  }
+}
